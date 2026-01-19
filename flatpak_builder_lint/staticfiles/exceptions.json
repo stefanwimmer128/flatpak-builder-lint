@@ -171,15 +171,13 @@
     },
     "com.github.artemanufrij.playmymusic": {
         "appid-uses-code-hosting-domain": "app-id predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "com.github.artemanufrij.playmyvideos": {
         "appid-uses-code-hosting-domain": "app-id predates this linter rule"
     },
     "com.github.artemanufrij.regextester": {
-        "appid-uses-code-hosting-domain": "app-id predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
+        "appid-uses-code-hosting-domain": "app-id predates this linter rule"
     },
     "com.github.avojak.paint-spill": {
         "appid-uses-code-hosting-domain": "app-id predates this linter rule"
@@ -215,8 +213,6 @@
     },
     "com.github.bluesabre.darkbar": {
         "appid-uses-code-hosting-domain": "app-id predates this linter rule",
-        "finish-args-flatpak-system-folder-access": "Predates the linter rule",
-        "finish-args-autostart-filesystem-access": "Predates the linter rule",
         "finish-args-host-ro-filesystem-access": "Predates the linter rule"
     },
     "com.github.buddhi1980.mandelbulber2": {
@@ -229,7 +225,6 @@
     },
     "com.github.calo001.fondo": {
         "appid-uses-code-hosting-domain": "app-id predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "com.github.calo001.luna": {
@@ -267,8 +262,7 @@
         "finish-args-host-ro-filesystem-access": "Predates the linter rule"
     },
     "com.github.dahenson.agenda": {
-        "appid-uses-code-hosting-domain": "app-id predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
+        "appid-uses-code-hosting-domain": "app-id predates this linter rule"
     },
     "com.github.dail8859.NotepadNext": {
         "appid-uses-code-hosting-domain": "app-id predates this linter rule",
@@ -295,8 +289,6 @@
     },
     "com.github.donadigo.appeditor": {
         "appid-uses-code-hosting-domain": "app-id predates this linter rule",
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-host-ro-filesystem-access": "Predates the linter rule"
     },
     "io.github.dosbox-staging": {
@@ -315,8 +307,7 @@
         "finish-args-contains-both-x11-and-wayland": "optional wayland support"
     },
     "com.github.elth0r0.iqpuzzle": {
-        "appid-uses-code-hosting-domain": "app-id predates this linter rule",
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
+        "appid-uses-code-hosting-domain": "app-id predates this linter rule"
     },
     "com.github.emmanueltouzery.cigale": {
         "appid-uses-code-hosting-domain": "app-id predates this linter rule",
@@ -389,8 +380,7 @@
         "finish-args-unnecessary-xdg-data-flatpak-create-access": "https://github.com/flathub/flathub/issues/3557"
     },
     "com.github.gyunaev.spivak": {
-        "appid-uses-code-hosting-domain": "app-id predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
+        "appid-uses-code-hosting-domain": "app-id predates this linter rule"
     },
     "com.github.hluk.copyq": {
         "appid-uses-code-hosting-domain": "app-id predates this linter rule",
@@ -409,8 +399,7 @@
         "appid-uses-code-hosting-domain": "app-id predates this linter rule"
     },
     "com.github.huluti.Coulr": {
-        "appid-uses-code-hosting-domain": "app-id predates this linter rule",
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
+        "appid-uses-code-hosting-domain": "app-id predates this linter rule"
     },
     "com.github.huluti.Curtail": {
         "appid-uses-code-hosting-domain": "app-id predates this linter rule",
@@ -471,8 +460,7 @@
         "appid-uses-code-hosting-domain": "app-id predates this linter rule"
     },
     "com.github.Johnn3y.Forklift": {
-        "appid-uses-code-hosting-domain": "app-id predates this linter rule",
-        "finish-args-home-filesystem-access": "Predates the linter rule"
+        "appid-uses-code-hosting-domain": "app-id predates this linter rule"
     },
     "com.github.joseexposito.touche": {
         "appid-uses-code-hosting-domain": "app-id predates this linter rule",
@@ -652,7 +640,6 @@
     },
     "com.github.philip_scott.spice-up": {
         "appid-uses-code-hosting-domain": "app-id predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "com.github.PintaProject.Pinta": {
@@ -670,7 +657,6 @@
     },
     "com.github.qarmin.czkawka": {
         "appid-uses-code-hosting-domain": "app-id predates this linter rule",
-        "finish-args-flatpak-appdata-folder-access": "Predates the linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "com.github.qarmin.szyszka": {
@@ -692,8 +678,7 @@
         "appid-uses-code-hosting-domain": "app-id predates this linter rule"
     },
     "com.github.raibtoffoletto.litteris": {
-        "appid-uses-code-hosting-domain": "app-id predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
+        "appid-uses-code-hosting-domain": "app-id predates this linter rule"
     },
     "com.github.rajsolai.response": {
         "appid-uses-code-hosting-domain": "app-id predates this linter rule"
@@ -717,7 +702,6 @@
     },
     "com.github.robertsanseries.ciano": {
         "appid-uses-code-hosting-domain": "app-id predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "com.github.rogercrocker.badabib": {
@@ -1001,12 +985,10 @@
     },
     "org.gnome.Contacts": {
         "finish-args-unnecessary-xdg-data-pixmaps-create-access": "the app predates this linter rule",
-        "finish-args-unnecessary-xdg-cache-evolution-ro-access": "the app predates this linter rule, used for evolution data server",
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
+        "finish-args-unnecessary-xdg-cache-evolution-ro-access": "the app predates this linter rule, used for evolution data server"
     },
     "org.gnome.dspy": {
-        "finish-args-arbitrary-dbus-access": "the app requires direct dbus access",
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
+        "finish-args-arbitrary-dbus-access": "the app requires direct dbus access"
     },
     "org.freedesktop.Bustle": {
         "finish-args-arbitrary-dbus-access": "the app requires direct dbus access"
@@ -1014,7 +996,6 @@
     "org.gnome.Builder": {
         "finish-args-arbitrary-dbus-access": "IDEs tend to require direct dbus access",
         "finish-args-flatpak-spawn-access": "the app predates this linter rule",
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-flatpak-system-folder-access": "Predates the linter rule",
         "finish-args-flatpak-user-folder-access": "Predates the linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule",
@@ -1230,7 +1211,6 @@
     },
     "com.syntevo.SmartSynchronize": {
         "finish-args-flatpak-spawn-access": "the app predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "com.ulduzsoft.Birdtray": {
@@ -1255,7 +1235,6 @@
         "finish-args-login1-system-talk-name": "Predates the linter rule"
     },
     "com.visualstudio.code.insiders": {
-        "finish-args-arbitrary-dbus-access": "IDEs tend to require direct dbus access",
         "finish-args-flatpak-spawn-access": "the app predates this linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule",
         "finish-args-has-socket-ssh-auth": "Predates the linter rule",
@@ -1286,7 +1265,6 @@
         "finish-args-flatpak-spawn-access": "the app predates this linter rule"
     },
     "dev.goats.xivlauncher": {
-        "finish-args-flatpak-spawn-access": "the app predates this linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "dev.lapce.lapce": {
@@ -1457,9 +1435,6 @@
         "finish-args-host-filesystem-access": "Predates the linter rule",
         "finish-args-login1-talk-name": "Predates the linter rule"
     },
-    "net.veloren.veloren": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
     "org.cockpit_project.CockpitClient": {
         "finish-args-flatpak-spawn-access": "the app predates this linter rule"
     },
@@ -1500,8 +1475,6 @@
     },
     "org.gabmus.unifydmin": {
         "finish-args-flatpak-spawn-access": "the app predates this linter rule",
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-ssh-filesystem-access": "Predates the linter rule"
     },
     "org.gnome.Lollypop": {
@@ -1659,7 +1632,6 @@
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "net.scribus.Scribus": {
-        "finish-args-contains-both-x11-and-wayland": "it can launch non-wayland UI via plugins",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "com.valvesoftware.Steam": {
@@ -1678,9 +1650,6 @@
     "com.adobe.Flash-Player-Projector": {
         "finish-args-host-ro-filesystem-access": "Predates the linter rule"
     },
-    "com.albiononline.AlbionOnline": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
     "com.amazon.Workspaces": {
         "flathub-json-automerge-enabled": "Predates the linter rule"
     },
@@ -1694,11 +1663,6 @@
     },
     "com.dropbox.Client": {
         "finish-args-own-name-wildcard-org.kde": "Initial import, outdated Qt, still uses legacy StatusNotifier implementation",
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
-        "finish-args-host-tmp-access": "Predates the linter rule",
-        "finish-args-home-filesystem-access": "Predates the linter rule"
-    },
-    "com.elsevier.MendeleyDesktop": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-host-tmp-access": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
@@ -1765,11 +1729,7 @@
     "com.tencent.WeChat": {
         "finish-args-own-name-wildcard-org.kde": "Still uses legacy StatusNotifier implementation"
     },
-    "com.ticktick.TickTick": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
-    },
     "com.viber.Viber": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
     },
     "io.botfather.Botfather": {
@@ -1817,7 +1777,6 @@
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "org.geogebra.GeoGebra": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "flathub-json-automerge-enabled": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
@@ -1861,8 +1820,7 @@
         "appid-code-hosting-too-few-components": "app-id predates this linter rule"
     },
     "io.github.ImEditor": {
-        "appid-code-hosting-too-few-components": "app-id predates this linter rule",
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
+        "appid-code-hosting-too-few-components": "app-id predates this linter rule"
     },
     "io.github.OpenToonz": {
         "appid-code-hosting-too-few-components": "app-id predates this linter rule",
@@ -2042,7 +2000,6 @@
     },
     "us.zoom.Zoom": {
         "finish-args-own-name-wildcard-org.kde": "Initial import, outdated Qt, still uses legacy StatusNotifier implementation",
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
     },
     "org.kde.SymbolEditor": {
@@ -2097,8 +2054,7 @@
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "org.kde.kamoso": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
+        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "org.kde.kanagram": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
@@ -2428,11 +2384,7 @@
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
-    "com.realm667.Wolfenstein_Blade_of_Agony": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
     "com.rosegardenmusic.rosegarden": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "com.sourcepole.kadas": {
@@ -2467,9 +2419,6 @@
     "de.wwwtech.ColorMate": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
-    "de.zwarf.picplanner": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
     "eu.ad5001.LogarithmPlotter": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
@@ -2480,8 +2429,7 @@
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "info.bibletime.BibleTime": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
+        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "info.olasagasti.revelation": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
@@ -2513,9 +2461,6 @@
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-unnecessary-xdg-config-wireplumber-create-access": "this program creates config files in xdg-config/wireplumber"
     },
-    "io.github.FailurePoint.RandomNumberFive": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
     "io.github.fabrialberio.pinapp": {
         "finish-args-unnecessary-xdg-data-flatpak-ro-access": "This program needs read-access to xdg-data/flatpak",
         "finish-args-unnecessary-xdg-data-applications-rw-access": "This program needs read-write access to xdg-data/applications",
@@ -2526,9 +2471,6 @@
         "finish-args-host-ro-filesystem-access": "Predates the linter rule"
     },
     "io.github.fizzyizzy05.binary": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
-    "io.github.leonardschardijn.Chirurgien": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "io.github.limads.Queries": {
@@ -2549,19 +2491,10 @@
     "io.github.nate_xyz.Conjure": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
-    "io.github.nate_xyz.Paleta": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
     "io.github.nate_xyz.Resonance": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
-    "io.github.nokse22.minitext": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
     "io.github.nokse22.teleprompter": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
-    "io.github.nokse22.trivia-quiz": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "io.github.nokse22.ultimate-tic-tac-toe": {
@@ -2575,7 +2508,6 @@
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "io.github.phastmike.tags": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "io.github.qwersyk.Newelle": {
@@ -2591,17 +2523,13 @@
     "io.gitlab.celleron56.libretile": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
-    "io.gitlab.gregorni.Letterpress": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
     "io.gitlab.gwendalj.package-transporter": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-flatpak-appdata-folder-access": "Predates the linter rule",
         "finish-args-flatpak-system-folder-access": "Predates the linter rule"
     },
     "io.liri.Calculator": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
+        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "io.mgba.mGBA": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
@@ -2632,10 +2560,6 @@
     "me.sanchezrodriguez.passes": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
-    "net.bartkessels.getit": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
-    },
     "net.danigm.loop": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
@@ -2643,7 +2567,6 @@
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "net.mediaarea.AVIMetaEdit": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
@@ -2677,21 +2600,9 @@
     "net.runelite.RuneLite": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
-    "net.sourceforge.Chessx": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
-    "net.sourceforge.DuneLegacy": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
     "net.sourceforge.electrip.Electrip": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
-    },
-    "net.sourceforge.Fillets": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
-    "net.sourceforge.projectM": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "net.sourceforge.Teo": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
@@ -2746,7 +2657,6 @@
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "org.gnome.Calendar": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-login1-system-talk-name": "Predates the linter rule"
     },
     "org.gnome.Characters": {
@@ -2766,18 +2676,11 @@
         "finish-args-host-ro-filesystem-access": "Predates the linter rule"
     },
     "org.gnome.eog": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "org.gnome.Evolution": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-gnupg-filesystem-access": "Predates the linter rule"
-    },
-    "org.gnome.frogr": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
-    "org.gnome.gbrainy": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "org.gnome.Geary": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
@@ -2805,7 +2708,6 @@
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "org.gnome.Loupe": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "org.gnome.meld": {
@@ -2820,9 +2722,6 @@
         "finish-args-login1-system-talk-name": "Predates the linter rule"
     },
     "org.gnome.NetworkDisplays": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
-    "org.gnome.Nibbles": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "org.gnome.Notes": {
@@ -2843,9 +2742,7 @@
         "finish-args-own-name-org.freedesktop.Telepathy.ChannelDispatcher": "Predates the linter rule",
         "finish-args-own-name-org.freedesktop.Telepathy.MissionControl5": "Predates the linter rule",
         "finish-args-own-name-org.freedesktop.Telepathy.ConnectionManager.idle": "Predates the linter rule",
-        "finish-args-own-name-wildcard-org.freedesktop.Telepathy.Connection.idle.irc": "Predates the linter rule",
-        "finish-args-own-name-org.freedesktop.Telepathy.Client.Logger": "Predates the linter rule",
-        "finish-args-own-name-org.freedesktop.Telepathy.Logger": "Predates the linter rule"
+        "finish-args-own-name-wildcard-org.freedesktop.Telepathy.Connection.idle.irc": "Predates the linter rule"
     },
     "org.gnome.PowerStats": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
@@ -2869,7 +2766,6 @@
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "org.gnome.TextEditor": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "org.gnome.Totem": {
@@ -2885,16 +2781,12 @@
         "finish-args-own-name-org.freedesktop.secrets": "Predates the linter rule"
     },
     "org.KekikAkademi.BTKSorgu": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
+        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "org.kekikakademi.eFatura": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "org.kekikakademi.ntvHaber": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
-    "org.libsdl.Maelstrom": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "org.mapeditor.Tiled": {
@@ -2907,17 +2799,10 @@
     "org.nickvision.cavalier": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
-    "org.openclonk.OpenClonk": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
-    "org.openfodder.OpenFodder": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
-    },
     "org.openmw.OpenMW": {
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "org.openttd.OpenTTD": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "org.processing.processingide": {
@@ -2925,17 +2810,12 @@
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "org.pyzo.pyzo": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "org.qgis.qgis": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
-    },
-    "org.quassel_irc.QuasselClient": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "org.quetoo.Quetoo": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
@@ -2953,20 +2833,13 @@
         "finish-args-home-filesystem-access": "Predates the linter rule",
         "finish-args-has-socket-ssh-auth": "Predates the linter rule"
     },
-    "org.sauerbraten.Sauerbraten": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
-    },
     "org.shadered.SHADERed": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "org.solarus_games.solarus.Launcher": {
         "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule"
     },
     "org.sparkleshare.SparkleShare": {
-        "appstream-id-mismatch-flatpak-id": "appstream-cid predates this linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "org.tabos.maxcontrol": {
@@ -3166,7 +3039,6 @@
     },
     "org.librepcb.LibrePCB": {
         "flathub-json-automerge-enabled": "Predates the linter rule",
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "org.naev.Naev": {
@@ -3222,7 +3094,6 @@
         "finish-args-login1-talk-name": "Predates the linter rule"
     },
     "cc.retroshare.retroshare-gui": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "ch.openboard.OpenBoard": {
@@ -3270,8 +3141,6 @@
     "com.microsoft.EdgeDev": {
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "flathub-json-automerge-enabled": "Predates the linter rule",
-        "finish-args-dconf-talk-name": "Predates the linter rule",
-        "finish-args-direct-dconf-path": "Predates the linter rule",
         "finish-args-desktopfile-filesystem-access": "Predates the linter rule"
     },
     "com.milesalan.mepo": {
@@ -3283,9 +3152,6 @@
     "com.mousepawmedia.omission": {
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-freedesktop-dbus-talk-name": "Predates the linter rule"
-    },
-    "com.notesnook.Notesnook": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
     },
     "com.opera.Opera": {
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
@@ -3306,7 +3172,6 @@
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
     },
     "com.supermodel3.Supermodel": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule",
         "finish-args-host-ro-filesystem-access": "Predates the linter rule"
     },
@@ -3323,9 +3188,6 @@
         "finish-args-dconf-talk-name": "Predates the linter rule",
         "finish-args-direct-dconf-path": "Predates the linter rule",
         "finish-args-desktopfile-filesystem-access": "Predates the linter rule"
-    },
-    "com.wire.WireDesktop": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
     },
     "com.wiz.Note": {
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
@@ -3351,9 +3213,6 @@
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
-    "eu.ototu.Quteqoin": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
-    },
     "eu.planete_kraus.Tarot": {
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
     },
@@ -3373,7 +3232,6 @@
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
     },
     "im.srain.Srain": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-home-ro-filesystem-access": "Predates the linter rule"
     },
     "in.cinny.Cinny": {
@@ -3396,10 +3254,6 @@
     "io.github.dbchoco.Salawat": {
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
-    },
-    "io.github.dweymouth.supersonic": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
-        "finish-args-host-tmp-access": "Predates the linter rule"
     },
     "io.github.gerryferdinandus.bittorrent-tracker-editor": {
         "finish-args-home-filesystem-access": "Predates the linter rule"
@@ -3436,7 +3290,6 @@
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "io.github.slgobinath.SafeEyes": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-login1-system-talk-name": "Predates the linter rule"
     },
     "io.github.trigg.discover_overlay": {
@@ -3463,7 +3316,6 @@
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
     },
     "io.liri.Text": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "io.mpv.Mpv": {
@@ -3519,19 +3371,15 @@
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "net.sourceforge.Lifeograph": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "net.sourceforge.dmidiplayer": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "net.sourceforge.kmetronome": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "net.sourceforge.kmidimon": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "net.studio08.xbplay": {
@@ -3551,9 +3399,6 @@
         "finish-args-unnecessary-xdg-data-applications-create-access": "Needed for manually creating application .desktop files for Floorp's Web Apps feature",
         "finish-args-unnecessary-xdg-data-icons-create-access": "Needed as Floorp's Web Apps feature downloads and installs icons for each website that the user adds",
         "finish-args-unnecessary-xdg-config-gtk-3.0-ro-access": "Needed for Breeze, etc. to use their colour scheme - upstream Firefox permission"
-    },
-    "org.b3log.siyuan": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
     },
     "org.bunkus.mkvtoolnix-gui": {
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
@@ -3596,7 +3441,6 @@
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "org.frescobaldi.Frescobaldi": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "org.geeqie.Geeqie": {
@@ -3627,7 +3471,6 @@
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "org.karapulse.Karapulse": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "org.kde.skrooge": {
@@ -3642,16 +3485,12 @@
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
-    "org.msweet.htmldoc": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
-    },
     "org.musicbrainz.Picard": {
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-host-tmp-access": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "org.olivevideoeditor.Olive": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "org.onlyoffice.desktopeditors": {
@@ -3665,9 +3504,6 @@
     "org.openmsx.openMSX": {
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
-    },
-    "org.pjbroad.EternallandsClient": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
     },
     "org.polymc.PolyMC": {
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
@@ -3697,7 +3533,6 @@
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "org.tug.texworks": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "org.tuxemon.Tuxemon": {
@@ -3712,9 +3547,6 @@
     "org.winehq.Wine": {
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "toplevel-unnecessary-branch": "Wine uses a custom branch following runtime branch for historical reasons"
-    },
-    "org.zulip.Zulip": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule"
     },
     "page.codeberg.lazyt.ubpm": {
         "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
@@ -3763,7 +3595,6 @@
         "finish-args-desktopfile-filesystem-access": "Predates the linter rule"
     },
     "xyz.splashmapper.Splash": {
-        "finish-args-contains-both-x11-and-wayland": "Predates the linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "xyz.stuerz.BilligSweeper": {
@@ -3911,8 +3742,7 @@
         "finish-args-unnecessary-xdg-data-flatpak-ro-access": "Needed to be able to see the list of .desktop files associated with installed flatpaks, to be able to autostart them",
         "finish-args-unnecessary-xdg-data-applications-ro-access": "Needed to be able to see the list of .desktop files for user-installed applications, to be able to autostart them",
         "finish-args-flatpak-system-folder-access": "Predates the linter rule",
-        "finish-args-host-var-access": "Predates the linter rule",
-        "finish-args-autostart-filesystem-access": "Predates the linter rule"
+        "finish-args-host-var-access": "Predates the linter rule"
     },
     "net.imaginaryinfinity.Squiid": {
         "finish-args-not-defined": "Is a command line application"
@@ -4117,9 +3947,6 @@
         "finish-args-host-tmp-access": "Predates the linter rule",
         "finish-args-host-ro-filesystem-access": "Predates the linter rule"
     },
-    "io.github.tfuxu.Halftone": {
-        "finish-args-host-tmp-access": "Predates the linter rule"
-    },
     "io.neovim.nvim": {
         "finish-args-host-tmp-access": "Predates the linter rule",
         "finish-args-host-filesystem-access": "Predates the linter rule"
@@ -4139,7 +3966,6 @@
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "org.denemo.Denemo": {
-        "finish-args-host-tmp-access": "Predates the linter rule",
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "org.expresslrs.ExpressLRSConfigurator": {
@@ -4344,9 +4170,6 @@
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "com.pypyrev.linuxdcpp": {
-        "finish-args-host-filesystem-access": "Predates the linter rule"
-    },
-    "com.rtosta.zapzap": {
         "finish-args-host-filesystem-access": "Predates the linter rule"
     },
     "com.sayonara_player.Sayonara": {
@@ -4811,9 +4634,6 @@
     "codes.loers.Karlender": {
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
-    "com.abisource.AbiWord": {
-        "finish-args-home-filesystem-access": "Predates the linter rule"
-    },
     "com.bambulab.BambuStudio": {
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
@@ -5009,12 +4829,6 @@
         "finish-args-home-filesystem-access": "Predates the linter rule",
         "finish-args-has-socket-ssh-auth": "Predates the linter rule"
     },
-    "com.xnview.XnConvert": {
-        "finish-args-home-filesystem-access": "Predates the linter rule"
-    },
-    "com.xnview.XnRetro": {
-        "finish-args-home-filesystem-access": "Predates the linter rule"
-    },
     "com.yacreader.YACReader": {
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
@@ -5034,9 +4848,6 @@
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "de.fabrik19.mos-Launcher": {
-        "finish-args-home-filesystem-access": "Predates the linter rule"
-    },
-    "de.finnik.PassVault": {
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "de.flose.Kochbuch": {
@@ -5194,9 +5005,6 @@
     "io.github.hakuneko.HakuNeko": {
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
-    "io.github.hydrusnetwork.hydrus": {
-        "finish-args-home-filesystem-access": "Predates the linter rule"
-    },
     "io.github.iptux_src.iptux": {
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
@@ -5204,9 +5012,6 @@
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "io.github.jchempaint.JChemPaint": {
-        "finish-args-home-filesystem-access": "Predates the linter rule"
-    },
-    "io.github.lruzicka.Needly": {
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
     "io.github.manisandro.gImageReader": {
@@ -5759,9 +5564,6 @@
     "org.tomviz.Tomviz": {
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
-    "org.turbowarp.TurboWarp": {
-        "finish-args-home-filesystem-access": "Predates the linter rule"
-    },
     "org.upscayl.Upscayl": {
         "finish-args-home-filesystem-access": "Predates the linter rule"
     },
@@ -5846,9 +5648,7 @@
         "finish-args-login1-system-talk-name": "Predates the linter rule"
     },
     "io.github.giantpinkrobots.varia": {
-        "finish-args-autostart-filesystem-access": "Predates the linter rule",
-        "finish-args-login1-system-talk-name": "Predates the linter rule",
-        "finish-args-own-name-io.github.giantpinkrobots.varia-tray": "Predates the linter rule"
+        "finish-args-login1-system-talk-name": "Predates the linter rule"
     },
     "info.cemu.Cemu": {
         "finish-args-desktopfile-filesystem-access": "Predates the linter rule",
@@ -6121,9 +5921,6 @@
     },
     "org.clementine_player.Clementine": {
         "finish-args-own-name-org.kde.StatusNotifierItem-2-2": "Predates the linter rule"
-    },
-    "org.gmusicbrowser.gmusicbrowser": {
-        "finish-args-own-name-org.gmusicbrowser": "Predates the linter rule"
     },
     "org.gpodder.gpodder-adaptive": {
         "finish-args-own-name-wildcard-org.gpodder": "Predates the linter rule"
